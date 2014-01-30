@@ -5,11 +5,15 @@ Give a brief outline here about the client, project and requirements.
 Awebsite.com are a startup with a product called 'Find my fashion'.
 It's a website aimed at 16-24 males and females and shows fashion outfits available on high street and they can win the outfit when they've shared it 1000 times.
 
+----
+
 **Min Browser:** IE 10, and the usual
 
 **Platform:** PHP, ExpressionEngine
 
 **Third party platform integration:** Facebook, Twitter, YouTube
+
+---
 
 ###0. Global
 
@@ -70,7 +74,9 @@ Shows all fashions on page load, if filtering then once submitted goes to result
   - **2.1.6** Reset button to say 'Clear filters'
 
 ---
-#OR
+
+*or an alternative version of the same thing*
+
 ---
 
 ###2. Fashion
