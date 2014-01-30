@@ -69,7 +69,9 @@ Shows all fashions on page load, if filtering then once submitted goes to result
   - **2.1.5** Submit button to say 'Find my fashion'
   - **2.1.6** Reset button to say 'Clear filters'
 
+---
 #OR
+---
 
 ###2. Fashion
 
