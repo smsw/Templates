@@ -11,6 +11,10 @@ https://github.com/smsw/Templates/blob/master/requirements.md
 A detailed scoping document to pin down exact requirements, these should be defined, agreed by team, clients and signed off.
 https://github.com/smsw/Templates/blob/master/scoping_document.md
 
+## Documenting conversations
+A version controlled document called conversations.md on github - this is updated every time team have conversations with client about scope or requirement change. Every commit is then recorded: includes who, the summary and extended description and date.
+https://github.com/smsw/Templates/blob/master/conversations.md
+
 
 ##@todos
 
@@ -18,6 +22,3 @@ https://github.com/smsw/Templates/blob/master/scoping_document.md
 - include date and estimated completion date
 - Milestone name
 - Milestone description
-
-###Documenting conversations
-- A version controlled document called conversations.md on github
