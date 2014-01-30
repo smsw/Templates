@@ -9,7 +9,9 @@ It's a website aimed at 16-24 males and females and shows fashion outfits availa
 
 **Min Browser:** IE 10, and the usual
 
-**Platform:** PHP, ExpressionEngine
+**Framework:** Foundation, Bootstrap
+
+**Platform:** PHP, ExpressionEngine, Statamic
 
 **Third party platform integration:** Facebook, Twitter, YouTube
 
