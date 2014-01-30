@@ -1,5 +1,14 @@
 #Requirements:
 
+##Client
+- What is the deadline?
+- What is the reason for the deadline?
+- What is the budget?
+- What are your goals?
+- What types of content will be used in this website?
+- Can you show me examples of websites you like and don’t like?
+- What’s the message you’re trying to convey with your website?
+
 ##Audience
 - Is there anything we should know about your audience that would affect development?
 	* eg. Are they colour-blind or they have limited mobility
