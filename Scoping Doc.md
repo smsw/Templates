@@ -12,6 +12,9 @@ It's a website aimed at 16-24 males and females and shows fashion outfits availa
 **Third party platform integration:** Facebook, Twitter, YouTube
 
 ###0. Global
+
+Header and footer appear on all pages unless specified.
+
 - 0.1 Header (header)
   - **0.1.1** Logo (links to home, see 1.)
   - **0.1.2** Links
@@ -50,6 +53,8 @@ It's a website aimed at 16-24 males and females and shows fashion outfits availa
 
 ###2. Fashion
 
+Shows all fashions on page load, if filtering then once submitted goes to results page
+
 *Layout: default*
 
 *Template: fashion*
@@ -64,9 +69,19 @@ It's a website aimed at 16-24 males and females and shows fashion outfits availa
   - **2.1.5** Submit button to say 'Find my fashion'
   - **2.1.6** Reset button to say 'Clear filters'
 
-#OR 
+#OR
 
-- **2.1** Filter Fashion - once submitted ajax updates in same page, When filters are added a box appears saying which filter has been applied - this filter box can be removed by clicking a cross on the filter.
+###2. Fashion
+
+Shows all fashions on page load, if filtering then once submitted ajax updates results in same page, When filters are added a box appears saying which filter has been applied - this filter box can be removed by clicking a cross on the filter.
+
+*Layout: default*
+
+*Template: fashion*
+
+*Partials: nav, footer, fashion*
+
+- **2.1** Filter Fashion
   - **2.1.1** Search by colour - dropdown of colours: red, blue, pink, etc)
   - **2.1.2** Search by brand - dropdown of brands: GAP, etc (see brands.doc on server for full list)
   - **2.1.3** Search by price range -£0 - £50, £50 - £100, £100 - £500, £500 - £1000
